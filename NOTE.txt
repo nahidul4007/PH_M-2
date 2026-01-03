@@ -1,0 +1,58 @@
+Just try to note down this module . this module i ware start with laptop . precious module is my stugle module . 
+
+
+ID vs CLASS 
+
+html color code 
+
+background image 
+
+background position
+
+margin
+
+padding
+
+box shadow
+
+border radious
+
+box model 
+
+inline .
+
+inline block
+
+
+Task - 1 = html with 3 paragraph > inline , internal , extrnal css 
+
+Task - 2 = headin paragraph list > text color , alignment font size , font family , font style 
+
+Task - 3 = html doc heading , paragraph , div > id , class , universal
+
+Task - 4 = webpage multi selector / divs > background color , images , position , size 
+
+Task - 5 = webpage various elements divs , paragraphs , images > add borders , width , colors , border-radious box shadow  etc 
+
+Task - 6 = webpage img , heading paragraps , buttons > display property none , hidden , inline , block , inline block . etc
+
+JM - JOB = BOX SHADOW  AND MANY THING . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
